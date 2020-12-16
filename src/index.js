@@ -52,6 +52,7 @@ import './style.scss';
     }
 
     (function runClock(){
+        
         CalculateDate();
     })();
 })();
