@@ -44,7 +44,7 @@ main{
     height: 65%;
 }
 
-.container .title{
+.container .title h2{
     position: relative;
     color: $white;
     text-align: center;
@@ -218,7 +218,7 @@ footer{
         position: relative;
         width: 100%;
     }
-    .container .title{
+    .container .title h2{ 
         font-size: 1.3rem;
         letter-spacing: 0.5rem;
     }
